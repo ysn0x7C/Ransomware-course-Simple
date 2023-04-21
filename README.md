@@ -1,5 +1,5 @@
-# Ransomware-course-Simple
-# Education purpose
+# Ransomware-course-Simple ☢
+# Education purpose 🚫
 
 ![alt text](https://github.com/OYASN/Ransomware-course-Simple/blob/main/dos.jpg?raw=true)
 
